@@ -74,3 +74,6 @@ body{justify-content: center;
 .section [id="slide01"]:checked ~ .slidewrap .slidelist > li {transform:translateX(0%);}
 .section [id="slide02"]:checked ~ .slidewrap .slidelist > li {transform:translateX(-100%);}
 .section [id="slide03"]:checked ~ .slidewrap .slidelist > li {transform:translateX(-200%);}
+
+
+Add new line
